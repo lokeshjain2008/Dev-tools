@@ -1,0 +1,32 @@
+### Following topic are covered.
+
+---
+
+- show/ hide elements  use of H key
+- use of  console
+- log
+- one message/object
+- combined
+- warn
+- error
+- assert
+- table 
+- nice representation
+- select to some of it for the analysis
+- count
+- time / timeEnd(’name’)
+- Css changes / local modifications and changes….
+- pseudo state of the element…
+- Color Picker
+- Change color style
+- drawer for nice debug
+- Device emulations…
+- Remote debugging.
+- document.getElementById / getElementByClass
+- $
+- $$
+- $x
+- inspect
+- Select element $0 - $4 
+- $_
+- Debug

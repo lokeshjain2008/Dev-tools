@@ -1,0 +1,31 @@
+{
+  "name": "DebugTheWeb",
+  "version": "1.0.0",
+  "description": "Chrome dev-tools for debugging the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lokeshjain2008/Dev-tools.git"
+  },
+  "keywords": [
+    "chrome",
+    "dev-tools",
+    "debugging"
+  ],
+  "author": "lokeshjain2008, lokesh jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokeshjain2008/Dev-tools/issues"
+  },
+  "homepage": "https://github.com/lokeshjain2008/Dev-tools",
+  "devDependencies": {
+    "gulp-markdown": "^1.0.0",
+    "gulp-reveal": "^1.0.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
